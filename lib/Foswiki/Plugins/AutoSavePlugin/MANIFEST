@@ -1,0 +1,6 @@
+# Release manifest for AutoSavePlugin
+data/System/AutoSavePlugin.txt 0644 Documentation
+lib/Foswiki/Plugins/AutoSavePlugin.pm 0644 Perl module
+lib/Foswiki/Plugins/AutoSavePlugin/AUTOSAVE.pm 0644 Perl module
+pub/System/AutoSavePlugin/autosave.js 0644 Javascript code
+

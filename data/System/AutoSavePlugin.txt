@@ -1,0 +1,22 @@
+---+ !AutoSavePlugin
+
+---++ Settings
+
+   * Set SHORTDESCRIPTION = Saves a topic automatically. Periods: 10 sec, 15 sec, 30 sec, 1 min, 2 min, 5 min. WARNING! Don't use it in combination with the Foswiki:Extensions.EditChapterPlugin.
+
+---++ Plugin Info
+
+|  Plugin Author: | Foswiki:Main.ThomasZobel, Foswiki:Main.OliverKrueger |
+|  Copyright: | 2009, Thomas Zobel %BR% 2010 Oliver Krueger |
+|  License: | GPL ([[http://www.gnu.org/copyleft/gpl.html][GNU General Public License]]) |
+|  Plugin Version: | %$VERSION% |
+|  Change History: | <!-- versions below in reverse order -->&nbsp; |
+|  31 Mar 2010: | Fixed compatibility with newer !TinyMCE |
+|  16 Feb 2009: | Initial version |
+|  Foswiki Dependency: | $Foswiki::Plugins::VERSION 1.1 |
+|  CPAN Dependencies: | none |
+|  Dependencies: | %$DEPENDENCIES% |
+|  Perl Version: | 5.006 |
+|  Plugin Home: | http://foswiki.org/Extensions/%TOPIC% |
+
+__Related Topics:__ [[%SYSTEMWEB%.Plugins][Plugins]]
